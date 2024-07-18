@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 #EXTINF:-1 tvg-id="UFCFightPass.br" tvg-name="UFC TV 01" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 01
 http://conexaoonline.top:80/952951/key5f0e5x0L/289465.ts
 #EXTINF:-1 tvg-id="" tvg-name="UFC TV 02" tvg-logo="https://rochagalaxia.live/logos/logoufc.png" group-title="CANAIS | ESPORTES",UFC TV 02
