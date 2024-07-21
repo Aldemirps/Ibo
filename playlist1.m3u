@@ -1,137 +1,137 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="BR | A&E" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_ae.png" group-title="✔️ TV | BRASIL",BR | A&E
+#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Cine/cine_ae.png" group-title="✔️ TV | BRASIL",BR | A&E
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42798
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="BR | AMC" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_amc.png" group-title="✔️ TV | BRASIL",BR | AMC
+#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Cine/cine_amc.png" group-title="✔️ TV | BRASIL",BR | AMC
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42799
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="BR | Animal Planet HD" tvg-logo="http://209.126.82.213/logos/mx_animal_planet.png" group-title="✔️ TV | BRASIL",BR | Animal Planet HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/mx_animal_planet.png" group-title="✔️ TV | BRASIL",BR | Animal Planet HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42800
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="BR | AXN HD" tvg-logo="http://209.126.82.213/logos/ar_axn_l.png" group-title="✔️ TV | BRASIL",BR | AXN HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/ar_axn_l.png" group-title="✔️ TV | BRASIL",BR | AXN HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42802
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="BR | Band HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_band-bahia_m.png" group-title="✔️ TV | BRASIL",BR | Band HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_band-bahia_m.png" group-title="✔️ TV | BRASIL",BR | Band HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42805
-#EXTINF:-1 tvg-id="BandNews.br" tvg-name="BR | Band News HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_band-news_m.png" group-title="✔️ TV | BRASIL",BR | Band News HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_band-news_m.png" group-title="✔️ TV | BRASIL",BR | Band News HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42806
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="BR | Bands Sports HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png" group-title="✔️ TV | BRASIL",BR | Bands Sports HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png" group-title="✔️ TV | BRASIL",BR | Bands Sports HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133796
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="BR | Canal Brasil HD" tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="✔️ TV | BRASIL",BR | Canal Brasil HD
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="✔️ TV | BRASIL",BR | Canal Brasil HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30489
-#EXTINF:-1 tvg-id="AFazenda.br" tvg-name="BR | Cinemax HD" tvg-logo="http://209.126.82.213/logos/ar_cinemax-sur_l.png" group-title="✔️ TV | BRASIL",BR | Cinemax HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/ar_cinemax-sur_l.png" group-title="✔️ TV | BRASIL",BR | Cinemax HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133797
-#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="BR | Combate HD" group-title="✔️ TV | BRASIL",BR | Combate HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Combate HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42809
-#EXTINF:-1 tvg-id="BRAZIL_Networks_and_Sports_EPGDiscoveryChannel.br" tvg-name="BR | Discovery Channel HD" tvg-logo="http://209.126.82.213/logos/mx_discovery.png" group-title="✔️ TV | BRASIL",BR | Discovery Channel HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/mx_discovery.png" group-title="✔️ TV | BRASIL",BR | Discovery Channel HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42813
-#EXTINF:-1 tvg-name="BR | Discovery Home & Healt HD" tvg-logo="http://209.126.82.213/logos/mx_discovery_hh.png" group-title="✔️ TV | BRASIL",BR | Discovery Home & Healt HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/mx_discovery_hh.png" group-title="✔️ TV | BRASIL",BR | Discovery Home & Healt HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133798
-#EXTINF:-1 tvg-name="BR | Discovery Kids HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="✔️ TV | BRASIL",BR | Discovery Kids HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="✔️ TV | BRASIL",BR | Discovery Kids HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133799
-#EXTINF:-1 tvg-name="BR | Discovery Theather HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="✔️ TV | BRASIL",BR | Discovery Theather HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="✔️ TV | BRASIL",BR | Discovery Theather HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133800
-#EXTINF:-1 tvg-name="BR | Discovery Turbo HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="✔️ TV | BRASIL",BR | Discovery Turbo HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="✔️ TV | BRASIL",BR | Discovery Turbo HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133801
-#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="BR | Discovery World HD" tvg-logo="http://209.126.82.213/Logos/discovery-world-brasil-us-br.png" group-title="✔️ TV | BRASIL",BR | Discovery World HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/discovery-world-brasil-us-br.png" group-title="✔️ TV | BRASIL",BR | Discovery World HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42820
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="BR | ESPN 2 HD" tvg-logo="http://209.126.82.213/Logos/ESPN2_logo.png" group-title="✔️ TV | BRASIL",BR | ESPN 2 HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/ESPN2_logo.png" group-title="✔️ TV | BRASIL",BR | ESPN 2 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/32785
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="BR | ESPN 3 HD" tvg-logo="http://209.126.82.213/Logos/espn-3-america-latina-us.png" group-title="✔️ TV | BRASIL",BR | ESPN 3 HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/espn-3-america-latina-us.png" group-title="✔️ TV | BRASIL",BR | ESPN 3 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/77420
-#EXTINF:-1 tvg-id="ESPNExtraBrazil.br" tvg-name="BR | ESPN 4 HD" group-title="✔️ TV | BRASIL",BR | ESPN 4 HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | ESPN 4 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30423
-#EXTINF:-1 tvg-id="ESPNInternational.br" tvg-name="BR | ESPN Deportes HD" tvg-logo="http://209.126.82.213/Logos/espn-us.png" group-title="✔️ TV | BRASIL",BR | ESPN Deportes HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/espn-us.png" group-title="✔️ TV | BRASIL",BR | ESPN Deportes HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/32786
-#EXTINF:-1 tvg-name="BR | ESPN 4 HD" group-title="✔️ TV | BRASIL",BR | ESPN 4 HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | ESPN 4 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133802
-#EXTINF:-1 tvg-id="AEBrazil.br" tvg-name="BR | Fox Sports 2 HD" tvg-logo="http://144.217.91.146/Logos/Brazil/fox-sports-2-br.png" group-title="✔️ TV | BRASIL",BR | Fox Sports 2 HD
+#EXTINF:-1 tvg-logo="http://144.217.91.146/Logos/Brazil/fox-sports-2-br.png" group-title="✔️ TV | BRASIL",BR | Fox Sports 2 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30643
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="BR | Globo News HD" tvg-logo="http://209.126.82.213/Logos/tv-globo-br.png" group-title="✔️ TV | BRASIL",BR | Globo News HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/tv-globo-br.png" group-title="✔️ TV | BRASIL",BR | Globo News HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42838
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="BR | Globo RJ HD" group-title="✔️ TV | BRASIL",BR | Globo RJ HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Globo RJ HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30422
-#EXTINF:-1 tvg-id="TVGloboBrasilia.br" tvg-name="BR | Globo Minas HD" tvg-logo="http://209.126.82.213/Logos/tv-globo-br.png" group-title="✔️ TV | BRASIL",BR | Globo Minas HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42836
-#EXTINF:-1 tvg-id="Gloob.br" tvg-name="BR | Gloobo Brasilia HD" tvg-logo="http://209.126.82.213/Logos/tv-globo-br.png" group-title="✔️ TV | BRASIL",BR | Gloobo Brasilia HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/tv-globo-br.png" group-title="✔️ TV | BRASIL",BR | Globo ANHANGUERA
+http://pfsv.io:80/leandrobuna/65756898/395.ts
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/tv-globo-br.png" group-title="✔️ TV | BRASIL",BR | Gloobo Brasilia HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/32787
-#EXTINF:-1 tvg-id="HBOBrasil.br" tvg-name="BR | HBO HD" group-title="✔️ TV | BRASIL",BR | HBO HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | HBO HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42845
-#EXTINF:-1 tvg-id="DiscoveryKidsBrasil.br" tvg-name="BR | HBO 2 HD" tvg-logo="http://209.126.82.213/Logos/discovery-kids-america-latina-us.png" group-title="✔️ TV | BRASIL",BR | HBO 2 HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/discovery-kids-america-latina-us.png" group-title="✔️ TV | BRASIL",BR | HBO 2 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42816
-#EXTINF:-1 tvg-id="DiscoveryTurboBrasil.br" tvg-name="BR | HBO Family HD" tvg-logo="http://209.126.82.213/Logos/discovery_turbo_us.png" group-title="✔️ TV | BRASIL",BR | HBO Family HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/discovery_turbo_us.png" group-title="✔️ TV | BRASIL",BR | HBO Family HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42819
-#EXTINF:-1 tvg-id="BandSports.br" tvg-name="BR | HBO Pop HD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_pop.png" group-title="✔️ TV | BRASIL",BR | HBO Pop HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_pop.png" group-title="✔️ TV | BRASIL",BR | HBO Pop HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/32783
-#EXTINF:-1 tvg-id="DiscoveryHomeHealthBrasil.br" tvg-name="BR | HBO Signature HD" group-title="✔️ TV | BRASIL",BR | HBO Signature HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | HBO Signature HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42815
-#EXTINF:-1 tvg-id="CartoonNetworkBrazil.br" tvg-name="BR | HBO Xtreme HD" tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_xtreme.png" group-title="✔️ TV | BRASIL",BR | HBO Xtreme HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_xtreme.png" group-title="✔️ TV | BRASIL",BR | HBO Xtreme HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42810
-#EXTINF:-1 tvg-name="BR | HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/1280px-HGTV_Logo.svg.png" group-title="✔️ TV | BRASIL",BR | HGTV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/1280px-HGTV_Logo.svg.png" group-title="✔️ TV | BRASIL",BR | HGTV HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133804
-#EXTINF:-1 tvg-name="BR | History HD" tvg-logo="http://miarea.vip:8080/images/487fd6056faadb1d0eb127a0ed49d482.png" group-title="✔️ TV | BRASIL",BR | History HD
+#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/487fd6056faadb1d0eb127a0ed49d482.png" group-title="✔️ TV | BRASIL",BR | History HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133805
-#EXTINF:-1 tvg-name="BR | Lifetime HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="✔️ TV | BRASIL",BR | Lifetime HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="✔️ TV | BRASIL",BR | Lifetime HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133806
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="BR | Multishow HD" group-title="✔️ TV | BRASIL",BR | Multishow HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Multishow HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42866
-#EXTINF:-1 tvg-name="BR | Natgeo HD" group-title="✔️ TV | BRASIL",BR | Natgeo HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Natgeo HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133807
-#EXTINF:-1 tvg-name="BR | Paramount HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="✔️ TV | BRASIL",BR | Paramount HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="✔️ TV | BRASIL",BR | Paramount HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133808
-#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="BR | Premiere Clubes HD" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="✔️ TV | BRASIL",BR | Premiere Clubes HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="✔️ TV | BRASIL",BR | Premiere Clubes HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/32781
-#EXTINF:-1 tvg-name="BR | Premiere 2 HD" group-title="✔️ TV | BRASIL",BR | Premiere 2 HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Premiere 2 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133809
-#EXTINF:-1 tvg-name="BR | Premiere 3 HD" group-title="✔️ TV | BRASIL",BR | Premiere 3 HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Premiere 3 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133810
-#EXTINF:-1 tvg-name="BR | Premiere 4 HD" group-title="✔️ TV | BRASIL",BR | Premiere 4 HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Premiere 4 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133811
-#EXTINF:-1 tvg-name="BR | Premiere 5 HD" group-title="✔️ TV | BRASIL",BR | Premiere 5 HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Premiere 5 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/156528
-#EXTINF:-1 tvg-name="BR | Premiere 6 HD" group-title="✔️ TV | BRASIL",BR | Premiere 6 HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Premiere 6 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133812
-#EXTINF:-1 tvg-id="RecordSaoPaulo.br" tvg-name="BR | Record HD" tvg-logo="http://209.126.82.213/Logos/rede_record_br.png" group-title="✔️ TV | BRASIL",BR | Record HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/rede_record_br.png" group-title="✔️ TV | BRASIL",BR | Record HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42869
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-name="BR | Record News HD" tvg-logo="http://209.126.82.213/Logos/record-news-br.png" group-title="✔️ TV | BRASIL",BR | Record News HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/record-news-br.png" group-title="✔️ TV | BRASIL",BR | Record News HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42870
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="BR | Rede TV HD" group-title="✔️ TV | BRASIL",BR | Rede TV HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Rede TV HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42865
-#EXTINF:-1 tvg-id="SBTMS.br" tvg-name="BR | Fox Sports HD" group-title="✔️ TV | BRASIL",BR | Fox Sports HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Fox Sports HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42873
-#EXTINF:-1 tvg-name="BR | Sony HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_Entertainment_Television_logo.png" group-title="✔️ TV | BRASIL",BR | Sony HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_Entertainment_Television_logo.png" group-title="✔️ TV | BRASIL",BR | Sony HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133814
-#EXTINF:-1 tvg-name="BR | Space HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="✔️ TV | BRASIL",BR | Space HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="✔️ TV | BRASIL",BR | Space HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133815
-#EXTINF:-1 tvg-id="SporTV.br" tvg-name="BR | Sportv HD" tvg-logo="http://209.126.82.213/Logos/sportv_br.png" group-title="✔️ TV | BRASIL",BR | Sportv HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/sportv_br.png" group-title="✔️ TV | BRASIL",BR | Sportv HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30307
-#EXTINF:-1 tvg-id="SporTV2.br" tvg-name="BR | Sportv 2 HD" tvg-logo="http://209.126.82.213/Logos/sportv2_br.png" group-title="✔️ TV | BRASIL",BR | Sportv 2 HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/sportv2_br.png" group-title="✔️ TV | BRASIL",BR | Sportv 2 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30308
-#EXTINF:-1 tvg-id="SporTV3.br" tvg-name="BR | Sportv 3 HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportv3_br.png" group-title="✔️ TV | BRASIL",BR | Sportv 3 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportv3_br.png" group-title="✔️ TV | BRASIL",BR | Sportv 3 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30309
-#EXTINF:-1 tvg-name="BR | Star Channel HD" group-title="✔️ TV | BRASIL",BR | Star Channel HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Star Channel HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133803
-#EXTINF:-1 tvg-name="BR | SyFy HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="✔️ TV | BRASIL",BR | SyFy HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="✔️ TV | BRASIL",BR | SyFy HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133816
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="BR | Telecine Action HD" group-title="✔️ TV | BRASIL",BR | Telecine Action HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Telecine Action HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42863
-#EXTINF:-1 tvg-id="SpaceBrasil.br" tvg-name="BR | Telecine Cult HD" group-title="✔️ TV | BRASIL",BR | Telecine Cult HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Telecine Cult HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42876
-#EXTINF:-1 tvg-id="SonyChannelBrasil.br" tvg-name="BR | Telecine Fun HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="✔️ TV | BRASIL",BR | Telecine Fun HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="✔️ TV | BRASIL",BR | Telecine Fun HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42875
-#EXTINF:-1 tvg-id="AEBrasil.br" tvg-name="BR | Telecine Pipoca HD" group-title="✔️ TV | BRASIL",BR | Telecine Pipoca HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Telecine Pipoca HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42861
-#EXTINF:-1 tvg-name="BR | Telecine Premium HD" group-title="✔️ TV | BRASIL",BR | Telecine Premium HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Telecine Premium HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133817
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="BR | Telecine Touch HD" group-title="✔️ TV | BRASIL",BR | Telecine Touch HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Telecine Touch HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42831
-#EXTINF:-1 tvg-name="BR | TNT Series HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="✔️ TV | BRASIL",BR | TNT Series HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="✔️ TV | BRASIL",BR | TNT Series HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133819
-#EXTINF:-1 tvg-name="BR | Viva HD" group-title="✔️ TV | BRASIL",BR | Viva HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Viva HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133820
-#EXTINF:-1 tvg-name="BR | Warner Channel HD" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/warner-channel-logo-png-transparent.png" group-title="✔️ TV | BRASIL",BR | Warner Channel HD
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/warner-channel-logo-png-transparent.png" group-title="✔️ TV | BRASIL",BR | Warner Channel HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133821
-#EXTINF:-1 tvg-name="BR | TNT HD" group-title="✔️ TV | BRASIL",BR | TNT HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | TNT HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/172623
-#EXTINF:-1 tvg-name="BR | Globo RBS HD" group-title="✔️ TV | BRASIL",BR | Globo RBS HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Globo RBS HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/175590
-#EXTINF:-1 tvg-name="BR | ESPN 5 HD" group-title="✔️ TV | BRASIL",BR | ESPN 5 HD
+#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | ESPN 5 HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/156527
-#EXTINF:-1 tvg-name="BR | ESPN HD" tvg-logo="http://209.126.82.213/LogosP/Deportes/dep_espn.png" group-title="✔️ TV | BRASIL",BR | ESPN HD
+#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Deportes/dep_espn.png" group-title="✔️ TV | BRASIL",BR | ESPN HD
 http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/156530
