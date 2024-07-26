@@ -1,137 +1,229 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Cine/cine_ae.png" group-title="✔️ TV | BRASIL",BR | A&E
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42798
-#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Cine/cine_amc.png" group-title="✔️ TV | BRASIL",BR | AMC
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42799
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/mx_animal_planet.png" group-title="✔️ TV | BRASIL",BR | Animal Planet HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42800
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/ar_axn_l.png" group-title="✔️ TV | BRASIL",BR | AXN HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42802
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_band-bahia_m.png" group-title="✔️ TV | BRASIL",BR | Band HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42805
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_band-news_m.png" group-title="✔️ TV | BRASIL",BR | Band News HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42806
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_bandsports_m.png" group-title="✔️ TV | BRASIL",BR | Bands Sports HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133796
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_canal-brasil_m.png" group-title="✔️ TV | BRASIL",BR | Canal Brasil HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30489
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/ar_cinemax-sur_l.png" group-title="✔️ TV | BRASIL",BR | Cinemax HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133797
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Combate HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42809
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/mx_discovery.png" group-title="✔️ TV | BRASIL",BR | Discovery Channel HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42813
-#EXTINF:-1 tvg-logo="http://209.126.82.213/logos/mx_discovery_hh.png" group-title="✔️ TV | BRASIL",BR | Discovery Home & Healt HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133798
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="✔️ TV | BRASIL",BR | Discovery Kids HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133799
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/4096px-2015_Discovery_theater_HD_logo.svg.png" group-title="✔️ TV | BRASIL",BR | Discovery Theather HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133800
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1024px-Discovery_Turbo_logo.svg.png" group-title="✔️ TV | BRASIL",BR | Discovery Turbo HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133801
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/discovery-world-brasil-us-br.png" group-title="✔️ TV | BRASIL",BR | Discovery World HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42820
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/ESPN2_logo.png" group-title="✔️ TV | BRASIL",BR | ESPN 2 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/32785
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/espn-3-america-latina-us.png" group-title="✔️ TV | BRASIL",BR | ESPN 3 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/77420
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | ESPN 4 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30423
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/espn-us.png" group-title="✔️ TV | BRASIL",BR | ESPN Deportes HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/32786
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | ESPN 4 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133802
-#EXTINF:-1 tvg-logo="http://144.217.91.146/Logos/Brazil/fox-sports-2-br.png" group-title="✔️ TV | BRASIL",BR | Fox Sports 2 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30643
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/tv-globo-br.png" group-title="✔️ TV | BRASIL",BR | Globo News HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42838
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Globo RJ HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30422
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/tv-globo-br.png" group-title="✔️ TV | BRASIL",BR | Globo ANHANGUERA
-http://pfsv.io:80/leandrobuna/65756898/395.ts
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/tv-globo-br.png" group-title="✔️ TV | BRASIL",BR | Gloobo Brasilia HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/32787
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | HBO HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42845
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/discovery-kids-america-latina-us.png" group-title="✔️ TV | BRASIL",BR | HBO 2 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42816
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/discovery_turbo_us.png" group-title="✔️ TV | BRASIL",BR | HBO Family HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42819
-#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_pop.png" group-title="✔️ TV | BRASIL",BR | HBO Pop HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/32783
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | HBO Signature HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42815
-#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Cine/cine_hbo_xtreme.png" group-title="✔️ TV | BRASIL",BR | HBO Xtreme HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42810
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/HGTV_Logo.svg/1280px-HGTV_Logo.svg.png" group-title="✔️ TV | BRASIL",BR | HGTV HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133804
-#EXTINF:-1 tvg-logo="http://miarea.vip:8080/images/487fd6056faadb1d0eb127a0ed49d482.png" group-title="✔️ TV | BRASIL",BR | History HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133805
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="✔️ TV | BRASIL",BR | Lifetime HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133806
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Multishow HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42866
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Natgeo HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133807
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png" group-title="✔️ TV | BRASIL",BR | Paramount HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133808
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pfc-br.png" group-title="✔️ TV | BRASIL",BR | Premiere Clubes HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/32781
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Premiere 2 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133809
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Premiere 3 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133810
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Premiere 4 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133811
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Premiere 5 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/156528
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Premiere 6 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133812
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/rede_record_br.png" group-title="✔️ TV | BRASIL",BR | Record HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42869
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/record-news-br.png" group-title="✔️ TV | BRASIL",BR | Record News HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42870
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Rede TV HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42865
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Fox Sports HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42873
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Sony_Entertainment_Television_logo.png" group-title="✔️ TV | BRASIL",BR | Sony HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133814
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="✔️ TV | BRASIL",BR | Space HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133815
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/sportv_br.png" group-title="✔️ TV | BRASIL",BR | Sportv HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30307
-#EXTINF:-1 tvg-logo="http://209.126.82.213/Logos/sportv2_br.png" group-title="✔️ TV | BRASIL",BR | Sportv 2 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30308
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sportv3_br.png" group-title="✔️ TV | BRASIL",BR | Sportv 3 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/30309
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Star Channel HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133803
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/1200px-Syfy.svg.png" group-title="✔️ TV | BRASIL",BR | SyFy HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133816
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Telecine Action HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42863
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Telecine Cult HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42876
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="✔️ TV | BRASIL",BR | Telecine Fun HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42875
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Telecine Pipoca HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42861
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Telecine Premium HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133817
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Telecine Touch HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/42831
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="✔️ TV | BRASIL",BR | TNT Series HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133819
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Viva HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133820
-#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/warner-channel-logo-png-transparent.png" group-title="✔️ TV | BRASIL",BR | Warner Channel HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/133821
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | TNT HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/172623
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | Globo RBS HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/175590
-#EXTINF:-1 group-title="✔️ TV | BRASIL",BR | ESPN 5 HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/156527
-#EXTINF:-1 tvg-logo="http://209.126.82.213/LogosP/Deportes/dep_espn.png" group-title="✔️ TV | BRASIL",BR | ESPN HD
-http://1play.cool:25461/Pl4yToBuy/ZvaUxKrPZXsk/156530
+#EXTINF:-1 tvg-name="BR: ALL Sports HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/89486703411.png" group-title="Brazil",BR: ALL Sports HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118201
+#EXTINF:-1 tvg-name="BR: Animal Planet HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/80551114131.png" group-title="Brazil",BR: Animal Planet HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118202
+#EXTINF:-1 tvg-name="BR: AXN HD" tvg-logo="https://img-cdn.curl.pk/chimg/6426483356.jpg" group-title="Brazil",BR: AXN HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118203
+#EXTINF:-1 tvg-name="BR: BAND Campinas HD" tvg-logo="https://img-cdn.curl.pk/chimg/6080735391.png" group-title="Brazil",BR: BAND Campinas HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118204
+#EXTINF:-1 tvg-name="BR: BAND NEWS HD" tvg-logo="https://img-cdn.curl.pk/chimg/2530055673.jpg" group-title="Brazil",BR: BAND NEWS HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118205
+#EXTINF:-1 tvg-name="BR: BAND SP HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93090885481.png" group-title="Brazil",BR: BAND SP HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118206
+#EXTINF:-1 tvg-name="BR: BAND Sports HD" tvg-logo="https://curl.pk/img/u/b80ee2b1683a1b1f86400ad681e37e879664.png" group-title="Brazil",BR: BAND Sports HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118207
+#EXTINF:-1 tvg-name="BR: Boomerang HD" tvg-logo="https://img-cdn.curl.pk/chimg/4126212192.jpg" group-title="Brazil",BR: Boomerang HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118208
+#EXTINF:-1 tvg-name="BR: Canal Brasil SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/80165564791.png" group-title="Brazil",BR: Canal Brasil SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118209
+#EXTINF:-1 tvg-name="BR: CAnal SONY HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17729052711.png" group-title="Brazil",BR: CAnal SONY HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118210
+#EXTINF:-1 tvg-name="BR: Combate HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/45604925601.png" group-title="Brazil",BR: Combate HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118211
+#EXTINF:-1 tvg-name="BR: Discovery HOME & Health HD" tvg-logo="https://curl.pk/img/u/4401546efb1795a043faae9163a6c2033820.png" group-title="Brazil",BR: Discovery HOME & Health HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118212
+#EXTINF:-1 tvg-name="BR: Discovery KIDS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/51527452641.png" group-title="Brazil",BR: Discovery KIDS HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118213
+#EXTINF:-1 tvg-name="BR: Discovery Science HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/46746082951.png" group-title="Brazil",BR: Discovery Science HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118214
+#EXTINF:-1 tvg-name="BR: Discovery TLC HD" tvg-logo="https://curl.pk/img/u/0bca0413c4007cb4d7a9d83efff92e341600.png" group-title="Brazil",BR: Discovery TLC HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118215
+#EXTINF:-1 tvg-name="BR: Discovery World FHD" tvg-logo="https://curl.pk/img/u/5b81cd54525354811bc5b82652be46352917.jpg" group-title="Brazil",BR: Discovery World FHD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118216
+#EXTINF:-1 tvg-name="BR: Discovery World SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/65430865521.png" group-title="Brazil",BR: Discovery World SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118217
+#EXTINF:-1 tvg-name="BR: Disney Junior HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32574651421.png" group-title="Brazil",BR: Disney Junior HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118218
+#EXTINF:-1 tvg-name="BR: Disney XD HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55272714191.png" group-title="Brazil",BR: Disney XD HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118219
+#EXTINF:-1 tvg-name="BR: ESPN 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/53074266441.png" group-title="Brazil",BR: ESPN 2 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118220
+#EXTINF:-1 tvg-name="BR: ESPN Brasil HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/95537313091.png" group-title="Brazil",BR: ESPN Brasil HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118221
+#EXTINF:-1 tvg-name="BR: ESPN Extra HD" tvg-logo="https://curl.pk/img/u/373e1d2ce4bd0c5cabf9f7e5b27303eb9060.jpg" group-title="Brazil",BR: ESPN Extra HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118222
+#EXTINF:-1 tvg-name="BR: FISH TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62204407471.png" group-title="Brazil",BR: FISH TV HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118223
+#EXTINF:-1 tvg-name="BR: FOOD Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/18812204581.png" group-title="Brazil",BR: FOOD Network HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118224
+#EXTINF:-1 tvg-name="BR: FOX LIFE HD" tvg-logo="https://img-cdn.curl.pk/chimg/8791116259.jpg" group-title="Brazil",BR: FOX LIFE HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118225
+#EXTINF:-1 tvg-name="BR: FOX Premium 2 HD" tvg-logo="https://img-cdn.curl.pk/chimg/1593279190.jpg" group-title="Brazil",BR: FOX Premium 2 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118226
+#EXTINF:-1 tvg-name="BR: FOX Sports 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79941526291.png" group-title="Brazil",BR: FOX Sports 1 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118227
+#EXTINF:-1 tvg-name="BR: FOX Sports 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37444895591.png" group-title="Brazil",BR: FOX Sports 2 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118228
+#EXTINF:-1 tvg-name="BR: Futura HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66347294161.png" group-title="Brazil",BR: Futura HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118229
+#EXTINF:-1 tvg-name="BR: FX HD" tvg-logo="https://img-cdn.curl.pk/chimg/8956473683.jpg" group-title="Brazil",BR: FX HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118230
+#EXTINF:-1 tvg-name="BR: Globo Brasilia SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/77952557011.png" group-title="Brazil",BR: Globo Brasilia SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118231
+#EXTINF:-1 tvg-name="BR: Globo EPTV Campinas HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/64309016481.png" group-title="Brazil",BR: Globo EPTV Campinas HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118232
+#EXTINF:-1 tvg-name="BR: Globo EPTV SAO Carlos SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82301917351.png" group-title="Brazil",BR: Globo EPTV SAO Carlos SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118233
+#EXTINF:-1 tvg-name="BR: Globo Inter TV Cabugi RN SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56707378081.png" group-title="Brazil",BR: Globo Inter TV Cabugi RN SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118234
+#EXTINF:-1 tvg-name="BR: Globo Minas HD" tvg-logo="https://curl.pk/img/u/8402ba945101c01386b747de7303c80e8028.png" group-title="Brazil",BR: Globo Minas HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118235
+#EXTINF:-1 tvg-name="BR: Globo NEWS HD" tvg-logo="https://curl.pk/img/u/987d863a3fd8be047e7db119e242e9031173.jpg" group-title="Brazil",BR: Globo NEWS HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118236
+#EXTINF:-1 tvg-name="BR: Globo Nordeste HD" tvg-logo="https://curl.pk/img/u/6162a45e059f9837536274d4fc9db90f2063.jpg" group-title="Brazil",BR: Globo Nordeste HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118237
+#EXTINF:-1 tvg-name="BR: Globo Nordeste HD" tvg-logo="https://img-cdn.curl.pk/chimg/5077514416.png" group-title="Brazil",BR: Globo Nordeste HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118238
+#EXTINF:-1 tvg-name="BR: Globo Premium HD" tvg-logo="https://img-cdn.curl.pk/chimg/3362376655.png" group-title="Brazil",BR: Globo Premium HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118239
+#EXTINF:-1 tvg-name="BR: Globo RBS Porto Alegre HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/42862282911.png" group-title="Brazil",BR: Globo RBS Porto Alegre HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118240
+#EXTINF:-1 tvg-name="BR: Globo RBS TV Pelotas HD" tvg-logo="https://curl.pk/img/u/b065d654ab5e9b39203963f6fc55f7fb6243.jpg" group-title="Brazil",BR: Globo RBS TV Pelotas HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118241
+#EXTINF:-1 tvg-name="BR: Globo RIO HD" tvg-logo="https://img-cdn.curl.pk/channels_icon_api/d4fe43c83dbad980134de7fa8da88460.png" group-title="Brazil",BR: Globo RIO HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118242
+#EXTINF:-1 tvg-name="BR: Globo RJ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/85970836681.png" group-title="Brazil",BR: Globo RJ HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118243
+#EXTINF:-1 tvg-name="BR: Globo RPC Curitiba HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/18721689851.png" group-title="Brazil",BR: Globo RPC Curitiba HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118244
+#EXTINF:-1 tvg-name="BR: Globo RPC HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73698323011.png" group-title="Brazil",BR: Globo RPC HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118245
+#EXTINF:-1 tvg-name="BR: Globo RPC TV SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/69112080011.png" group-title="Brazil",BR: Globo RPC TV SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118246
+#EXTINF:-1 tvg-name="BR: Globo SP FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/95780884861.png" group-title="Brazil",BR: Globo SP FHD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118247
+#EXTINF:-1 tvg-name="BR: Globo SP HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71367104351.png" group-title="Brazil",BR: Globo SP HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118248
+#EXTINF:-1 tvg-name="BR: Globo TV Bahia SD" tvg-logo="https://curl.pk/img/u/00e99b13b409d8c31037ce4bcb7755326291.jpeg" group-title="Brazil",BR: Globo TV Bahia SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118249
+#EXTINF:-1 tvg-name="BR: Globo TV Morena FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60224497621.png" group-title="Brazil",BR: Globo TV Morena FHD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118250
+#EXTINF:-1 tvg-name="BR: Globo TV Morena HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/69894889491.png" group-title="Brazil",BR: Globo TV Morena HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118251
+#EXTINF:-1 tvg-name="BR: Globo TV TEM Sorocaba SD" tvg-logo="https://curl.pk/img/u/7ea8ab1aea7b30476a22bb107db50df01771.png" group-title="Brazil",BR: Globo TV TEM Sorocaba SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118252
+#EXTINF:-1 tvg-name="BR: Globo TV Tribuna Santos SD" tvg-logo="https://curl.pk/img/u/d9ff25bf513d9d89e2cdca4a0c09c5056859.png" group-title="Brazil",BR: Globo TV Tribuna Santos SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118253
+#EXTINF:-1 tvg-name="BR: GNT HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17104569191.png" group-title="Brazil",BR: GNT HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118254
+#EXTINF:-1 tvg-name="BR: HBO 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67403825551.png" group-title="Brazil",BR: HBO 2 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118255
+#EXTINF:-1 tvg-name="BR: HBO Family HD" tvg-logo="https://curl.pk/img/u/9d9594a517c705c8ce4ff0c1a9ce70505644.png" group-title="Brazil",BR: HBO Family HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118256
+#EXTINF:-1 tvg-name="BR: HBO HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/68306915011.png" group-title="Brazil",BR: HBO HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118257
+#EXTINF:-1 tvg-name="BR: HBO PLUS HD" tvg-logo="https://curl.pk/img/u/55e93e843d0771fe10d93f8f4002f9ef2473.png" group-title="Brazil",BR: HBO PLUS HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118258
+#EXTINF:-1 tvg-name="BR: HBO POP HD" tvg-logo="https://curl.pk/img/u/12aa46e0da16b0520c4ac626969bd23e7090.png" group-title="Brazil",BR: HBO POP HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118259
+#EXTINF:-1 tvg-name="BR: HGTV HD" tvg-logo="https://img-cdn.curl.pk/chimg/1719996587.jpg" group-title="Brazil",BR: HGTV HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118260
+#EXTINF:-1 tvg-name="BR: History Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/20435737671.png" group-title="Brazil",BR: History Channel HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118261
+#EXTINF:-1 tvg-name="BR: ID Discovery HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35545143541.png" group-title="Brazil",BR: ID Discovery HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118262
+#EXTINF:-1 tvg-name="BR: MAIS Globosat SD" tvg-logo="https://img-cdn.curl.pk/chimg/1355657774.png" group-title="Brazil",BR: MAIS Globosat SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118263
+#EXTINF:-1 tvg-name="BR: MTV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/76714813471.png" group-title="Brazil",BR: MTV HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118264
+#EXTINF:-1 tvg-name="BR: MTV LIVE HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22147592901.png" group-title="Brazil",BR: MTV LIVE HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118265
+#EXTINF:-1 tvg-name="BR: Multishow HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/68641119701.png" group-title="Brazil",BR: Multishow HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118266
+#EXTINF:-1 tvg-name="BR: Music BOX Brazil SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/51657133271.png" group-title="Brazil",BR: Music BOX Brazil SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118267
+#EXTINF:-1 tvg-name="BR: NAT GEO WILD HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/47393207441.png" group-title="Brazil",BR: NAT GEO WILD HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118268
+#EXTINF:-1 tvg-name="BR: Natgeo WILD SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/24258158331.png" group-title="Brazil",BR: Natgeo WILD SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118269
+#EXTINF:-1 tvg-name="BR: National Geographic HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32155898151.png" group-title="Brazil",BR: National Geographic HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118270
+#EXTINF:-1 tvg-name="BR: National Geographic KIDS HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/27349326071.png" group-title="Brazil",BR: National Geographic KIDS HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118271
+#EXTINF:-1 tvg-name="BR: NICK JR HD" tvg-logo="https://img-cdn.curl.pk/chimg/7064545639.jpg" group-title="Brazil",BR: NICK JR HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118272
+#EXTINF:-1 tvg-name="BR: Paramount Channel HD" tvg-logo="https://curl.pk/img/u/1b3454b39d4bd997c17cc2200547fead726.png" group-title="Brazil",BR: Paramount Channel HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118273
+#EXTINF:-1 tvg-name="BR: Premiere 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37537505951.png" group-title="Brazil",BR: Premiere 1 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118274
+#EXTINF:-1 tvg-name="BR: Premiere 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25497972891.png" group-title="Brazil",BR: Premiere 2 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118275
+#EXTINF:-1 tvg-name="BR: Premiere 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63790375811.png" group-title="Brazil",BR: Premiere 3 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118276
+#EXTINF:-1 tvg-name="BR: Premiere 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/57146425911.png" group-title="Brazil",BR: Premiere 4 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118277
+#EXTINF:-1 tvg-name="BR: Premiere Clubes HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/44389777481.png" group-title="Brazil",BR: Premiere Clubes HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118278
+#EXTINF:-1 tvg-name="BR: Record Campinas HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/74723712411.png" group-title="Brazil",BR: Record Campinas HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118279
+#EXTINF:-1 tvg-name="BR: Record Nordeste HD" tvg-logo="https://curl.pk/img/u/6162a45e059f9837536274d4fc9db90f2063.jpg" group-title="Brazil",BR: Record Nordeste HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118280
+#EXTINF:-1 tvg-name="BR: Record RJ HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79973044021.png" group-title="Brazil",BR: Record RJ HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118281
+#EXTINF:-1 tvg-name="BR: Record RJ HD" tvg-logo="https://curl.pk/img/u/a3bec7f056052022452c5aa6242693951817.jpeg" group-title="Brazil",BR: Record RJ HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118282
+#EXTINF:-1 tvg-name="BR: Record SP HD" tvg-logo="https://curl.pk/img/u/24f541d79f13ac460c08f227479bb68c4755.png" group-title="Brazil",BR: Record SP HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118283
+#EXTINF:-1 tvg-name="BR: Record SP HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71367104351.png" group-title="Brazil",BR: Record SP HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118284
+#EXTINF:-1 tvg-name="BR: REDE Brasil HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/97421073901.png" group-title="Brazil",BR: REDE Brasil HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118285
+#EXTINF:-1 tvg-name="BR: REDE Familia SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/44993746411.png" group-title="Brazil",BR: REDE Familia SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118286
+#EXTINF:-1 tvg-name="BR: REDE Gospel SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/81734779521.png" group-title="Brazil",BR: REDE Gospel SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118287
+#EXTINF:-1 tvg-name="BR: REDE TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22035256581.png" group-title="Brazil",BR: REDE TV HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118288
+#EXTINF:-1 tvg-name="BR: REDE VIDA HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66622767311.png" group-title="Brazil",BR: REDE VIDA HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118289
+#EXTINF:-1 tvg-name="BR: SBT TV Cidade Verde Piaui SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19280859151.png" group-title="Brazil",BR: SBT TV Cidade Verde Piaui SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118290
+#EXTINF:-1 tvg-name="BR: Space HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/72057577221.png" group-title="Brazil",BR: Space HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118291
+#EXTINF:-1 tvg-name="BR: Sport TV 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/21014839301.png" group-title="Brazil",BR: Sport TV 3 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118292
+#EXTINF:-1 tvg-name="BR: SporTV 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/31058921921.png" group-title="Brazil",BR: SporTV 1 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118293
+#EXTINF:-1 tvg-name="BR: SporTV 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91301065891.png" group-title="Brazil",BR: SporTV 2 FHD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118294
+#EXTINF:-1 tvg-name="BR: SporTV 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/13955294101.png" group-title="Brazil",BR: SporTV 2 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118295
+#EXTINF:-1 tvg-name="BR: SporTV 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/31291444621.png" group-title="Brazil",BR: SporTV 3 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118296
+#EXTINF:-1 tvg-name="BR: TCM SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19827211411.png" group-title="Brazil",BR: TCM SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118297
+#EXTINF:-1 tvg-name="BR: Telecine Action HD" tvg-logo="https://img-cdn.curl.pk/chimg/5240511493.jpg" group-title="Brazil",BR: Telecine Action HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118298
+#EXTINF:-1 tvg-name="BR: Telecine CULT HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/88137564111.png" group-title="Brazil",BR: Telecine CULT HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118299
+#EXTINF:-1 tvg-name="BR: Telecine FUN HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/84297661441.png" group-title="Brazil",BR: Telecine FUN HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118300
+#EXTINF:-1 tvg-name="BR: Telecine FUN SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15677572671.png" group-title="Brazil",BR: Telecine FUN SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118301
+#EXTINF:-1 tvg-name="BR: Telecine Pipoca HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/81770098591.png" group-title="Brazil",BR: Telecine Pipoca HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118302
+#EXTINF:-1 tvg-name="BR: Telecine Touch HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11074488021.png" group-title="Brazil",BR: Telecine Touch HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118303
+#EXTINF:-1 tvg-name="BR: TNT HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62429098861.png" group-title="Brazil",BR: TNT HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118304
+#EXTINF:-1 tvg-name="BR: Tooncast HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66038653281.png" group-title="Brazil",BR: Tooncast HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118307
+#EXTINF:-1 tvg-name="BR: TOP TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35817394071.png" group-title="Brazil",BR: TOP TV HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118308
+#EXTINF:-1 tvg-name="BR: TV Diario DO Sertao HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/14657433621.png" group-title="Brazil",BR: TV Diario DO Sertao HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118309
+#EXTINF:-1 tvg-name="BR: TV Gazeta SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32180066831.png" group-title="Brazil",BR: TV Gazeta SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118310
+#EXTINF:-1 tvg-name="BR: UNiversal Channel SD" tvg-logo="https://img-cdn.curl.pk/chimg/7272328326.jpg" group-title="Brazil",BR: UNiversal Channel SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118311
+#EXTINF:-1 tvg-name="BR: VH1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37309598051.png" group-title="Brazil",BR: VH1 HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118312
+#EXTINF:-1 tvg-name="BR: VH1 MEGA HITS SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67489953771.png" group-title="Brazil",BR: VH1 MEGA HITS SD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118313
+#EXTINF:-1 tvg-name="BR: VIVA HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/74990062061.png" group-title="Brazil",BR: VIVA HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118314
+#EXTINF:-1 tvg-name="BR: Woohoo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75462793431.png" group-title="Brazil",BR: Woohoo HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118315
+#EXTINF:-1 tvg-name="BR: Zoomoo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/20886865341.png" group-title="Brazil",BR: Zoomoo HD
+http://lunar.pm:8080/Artfam/3NptWkRM4ff7/118316
