@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="FONTE FULL" tvg-logo="",Jogos do dia
- http://4f.rs:80/live/09065438/824192/1552745.ts
+ http://51.79.39.236:80/live/16209294/88899278/129345.ts
 #EXTINF:-1 tvg-id="ad9aa338e90326c3375036bd8572fa5e" tvg-name="A&E FHD H265 [P]" tvg-logo="http://srv.mypanel.life:8080/images/7bb163f52dc47674d1c023c2c66f3700.png" group-title="FONTE FULL",A&E FHD H265 [P]
 http://fonte.lista.luxe:80/iptvgood/101011/4864
 #EXTINF:-1 tvg-id="293d4256382f4893a08d8a57dbdf71b4" tvg-name="A&E FHD [P]" tvg-logo="http://srv.mypanel.life:8080/images/7bb163f52dc47674d1c023c2c66f3700.png" group-title="FONTE FULL",A&E FHD [P]
