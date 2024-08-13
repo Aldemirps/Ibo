@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="FONTE FULL" tvg-logo="",Jogos do dia
+ http://p2z.me:80/live/123456/123456/5955542.ts
 #EXTINF:-1 tvg-id="ad9aa338e90326c3375036bd8572fa5e" tvg-name="A&E FHD H265 [P]" tvg-logo="http://srv.mypanel.life:8080/images/7bb163f52dc47674d1c023c2c66f3700.png" group-title="FONTE FULL",A&E FHD H265 [P]
 http://fonte.lista.luxe:80/iptvgood/101011/4864
 #EXTINF:-1 tvg-id="293d4256382f4893a08d8a57dbdf71b4" tvg-name="A&E FHD [P]" tvg-logo="http://srv.mypanel.life:8080/images/7bb163f52dc47674d1c023c2c66f3700.png" group-title="FONTE FULL",A&E FHD [P]
@@ -877,14 +879,6 @@ http://fonte.lista.luxe:80/iptvgood/101011/3859
 http://fonte.lista.luxe:80/iptvgood/101011/3861
 #EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL SD [P]" tvg-logo="" group-title="FONTE FULL",PARAMOUNT CHANNEL SD [P]
 http://fonte.lista.luxe:80/iptvgood/101011/3860
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD H265 [P]" tvg-logo="" group-title="FONTE FULL",PLAYBOY FHD H265 [P]
-http://fonte.lista.luxe:80/iptvgood/101011/6828
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY FHD [P]" tvg-logo="" group-title="FONTE FULL",PLAYBOY FHD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/3858
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY HD [P]" tvg-logo="" group-title="FONTE FULL",PLAYBOY HD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/3857
-#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY SD [P]" tvg-logo="" group-title="FONTE FULL",PLAYBOY SD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/3856
 #EXTINF:-1 tvg-id="" tvg-name="POLISHOP HD" tvg-logo="" group-title="FONTE FULL",POLISHOP HD
 http://fonte.lista.luxe:80/iptvgood/101011/7004
 #EXTINF:-1 tvg-id="" tvg-name="POLISHOP SD [P]" tvg-logo="" group-title="FONTE FULL",POLISHOP SD [P]
