@@ -101,40 +101,6 @@ http://fonte.lista.luxe:80/iptvgood/101011/4761
 http://fonte.lista.luxe:80/iptvgood/101011/4065
 #EXTINF:-1 tvg-id="b92ed37096cf4e7df539d4859122940e" tvg-name="BAND SPORTS SD [P]" tvg-logo="http://srv.mypanel.life:8080/images/eb4b57045edbab25f0d31deb3d3e84ce.png" group-title="FONTE FULL",BAND SPORTS SD [P]
 http://fonte.lista.luxe:80/iptvgood/101011/4064
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1" tvg-logo="" group-title="FONTE FULL",BBB CAM 1
-http://fonte.lista.luxe:80/iptvgood/101011/3706
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2 " tvg-logo="" group-title="FONTE FULL",BBB CAM 2 
-http://fonte.lista.luxe:80/iptvgood/101011/3703
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3" tvg-logo="" group-title="FONTE FULL",BBB CAM 3
-http://fonte.lista.luxe:80/iptvgood/101011/3702
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4" tvg-logo="" group-title="FONTE FULL",BBB CAM 4
-http://fonte.lista.luxe:80/iptvgood/101011/3701
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5" tvg-logo="" group-title="FONTE FULL",BBB CAM 5
-http://fonte.lista.luxe:80/iptvgood/101011/3700
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6 " tvg-logo="" group-title="FONTE FULL",BBB CAM 6 
-http://fonte.lista.luxe:80/iptvgood/101011/3699
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7 " tvg-logo="" group-title="FONTE FULL",BBB CAM 7 
-http://fonte.lista.luxe:80/iptvgood/101011/3698
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8" tvg-logo="" group-title="FONTE FULL",BBB CAM 8
-http://fonte.lista.luxe:80/iptvgood/101011/3697
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9" tvg-logo="" group-title="FONTE FULL",BBB CAM 9
-http://fonte.lista.luxe:80/iptvgood/101011/3696
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 10" tvg-logo="" group-title="FONTE FULL",BBB CAM 10
-http://fonte.lista.luxe:80/iptvgood/101011/3705
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 11" tvg-logo="" group-title="FONTE FULL",BBB CAM 11
-http://fonte.lista.luxe:80/iptvgood/101011/3704
-#EXTINF:-1 tvg-id="" tvg-name="BBB 1 FHD [P]" tvg-logo="" group-title="FONTE FULL",BBB 1 FHD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/6978
-#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD [P]" tvg-logo="" group-title="FONTE FULL",BBB 1 HD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/4063
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2 FHD [P]" tvg-logo="" group-title="FONTE FULL",BBB 2 FHD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/4061
-#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD [P]" tvg-logo="" group-title="FONTE FULL",BBB 2 HD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/4062
-#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO FHD [P]" tvg-logo="" group-title="FONTE FULL",BBB MOSAICO FHD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/4058
-#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO HD [P]" tvg-logo="" group-title="FONTE FULL",BBB MOSAICO HD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/4059
 #EXTINF:-1 tvg-id="abf5f8368f4df9a5162230af9f76d027" tvg-name="BIS FHD H265 [P]" tvg-logo="http://srv.mypanel.life:8080/images/eca07151766b82fb8d32a29654c18ca2.png" group-title="FONTE FULL",BIS FHD H265 [P]
 http://fonte.lista.luxe:80/iptvgood/101011/6789
 #EXTINF:-1 tvg-id="abf5f8368f4df9a5162230af9f76d027" tvg-name="BIS FHD [P]" tvg-logo="http://srv.mypanel.life:8080/images/eca07151766b82fb8d32a29654c18ca2.png" group-title="FONTE FULL",BIS FHD [P]
@@ -1101,18 +1067,6 @@ http://fonte.lista.luxe:80/iptvgood/101011/6875
 http://fonte.lista.luxe:80/iptvgood/101011/6880
 #EXTINF:-1 tvg-id="" tvg-name="SBT VTV CAMPINAS HD" tvg-logo="" group-title="FONTE FULL",SBT VTV CAMPINAS HD
 http://fonte.lista.luxe:80/iptvgood/101011/6884
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME FHD (P)" tvg-logo="" group-title="FONTE FULL",SEXTREME FHD (P)
-http://fonte.lista.luxe:80/iptvgood/101011/7368
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME HD [P]" tvg-logo="" group-title="FONTE FULL",SEXTREME HD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/3822
-#EXTINF:-1 tvg-id="" tvg-name="SEXTREME SD [P]" tvg-logo="" group-title="FONTE FULL",SEXTREME SD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/3821
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT FHD (P)" tvg-logo="" group-title="FONTE FULL",SEXY HOT FHD (P)
-http://fonte.lista.luxe:80/iptvgood/101011/7371
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT HD [P]" tvg-logo="" group-title="FONTE FULL",SEXY HOT HD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/3820
-#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT SD [P]" tvg-logo="" group-title="FONTE FULL",SEXY HOT SD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/3819
 #EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL FHD (P)" tvg-logo="" group-title="FONTE FULL",SIC INTERNACIONAL FHD (P)
 http://fonte.lista.luxe:80/iptvgood/101011/7360
 #EXTINF:-1 tvg-id="" tvg-name="SIC INTERNACIONAL HD (P)" tvg-logo="" group-title="FONTE FULL",SIC INTERNACIONAL HD (P)
@@ -1361,10 +1315,6 @@ http://fonte.lista.luxe:80/iptvgood/101011/3749
 http://fonte.lista.luxe:80/iptvgood/101011/3748
 #EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL CHANNEL SD [P]" tvg-logo="" group-title="FONTE FULL",UNIVERSAL CHANNEL SD [P]
 http://fonte.lista.luxe:80/iptvgood/101011/3747
-#EXTINF:-1 tvg-id="" tvg-name="VENUS HD [P]" tvg-logo="" group-title="FONTE FULL",VENUS HD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/3746
-#EXTINF:-1 tvg-id="" tvg-name="VENUS SD [P]" tvg-logo="" group-title="FONTE FULL",VENUS SD [P]
-http://fonte.lista.luxe:80/iptvgood/101011/3745
 #EXTINF:-1 tvg-id="" tvg-name="VIVA FHD H265 [P]" tvg-logo="" group-title="FONTE FULL",VIVA FHD H265 [P]
 http://fonte.lista.luxe:80/iptvgood/101011/6847
 #EXTINF:-1 tvg-id="" tvg-name="VIVA FHD [P]" tvg-logo="" group-title="FONTE FULL",VIVA FHD [P]
@@ -3149,168 +3099,6 @@ http://fonte.lista.luxe:80/iptvgood/101011/6612
 http://fonte.lista.luxe:80/iptvgood/101011/6613
 #EXTINF:-1 tvg-id="" tvg-name="24H-X MEN" tvg-logo="" group-title="24 HORAS",24H-X MEN
 http://fonte.lista.luxe:80/iptvgood/101011/6614
-#EXTINF:-1 tvg-id="" tvg-name="24H-XUXA SO PARA BAIXINHOS" tvg-logo="" group-title="24 HORAS",24H-XUXA SO PARA BAIXINHOS
-http://fonte.lista.luxe:80/iptvgood/101011/6615
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 01" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 01
-http://fonte.lista.luxe:80/iptvgood/101011/6651
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 02" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 02
-http://fonte.lista.luxe:80/iptvgood/101011/6652
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 03" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 03
-http://fonte.lista.luxe:80/iptvgood/101011/6653
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 04" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 04
-http://fonte.lista.luxe:80/iptvgood/101011/6654
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 05" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 05
-http://fonte.lista.luxe:80/iptvgood/101011/6655
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 06" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 06
-http://fonte.lista.luxe:80/iptvgood/101011/6656
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 07" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 07
-http://fonte.lista.luxe:80/iptvgood/101011/6657
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 08" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 08
-http://fonte.lista.luxe:80/iptvgood/101011/6658
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 09" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 09
-http://fonte.lista.luxe:80/iptvgood/101011/6659
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 10" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 10
-http://fonte.lista.luxe:80/iptvgood/101011/6660
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 11" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 11
-http://fonte.lista.luxe:80/iptvgood/101011/6661
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 12" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 12
-http://fonte.lista.luxe:80/iptvgood/101011/6662
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 13" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 13
-http://fonte.lista.luxe:80/iptvgood/101011/6663
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 14" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 14
-http://fonte.lista.luxe:80/iptvgood/101011/6664
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 15" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 15
-http://fonte.lista.luxe:80/iptvgood/101011/6665
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 16" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 16
-http://fonte.lista.luxe:80/iptvgood/101011/6666
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 17" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 17
-http://fonte.lista.luxe:80/iptvgood/101011/6667
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 18" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 18
-http://fonte.lista.luxe:80/iptvgood/101011/6668
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 19" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 19
-http://fonte.lista.luxe:80/iptvgood/101011/6669
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 20" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 20
-http://fonte.lista.luxe:80/iptvgood/101011/6670
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 21" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 21
-http://fonte.lista.luxe:80/iptvgood/101011/6671
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 22" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 22
-http://fonte.lista.luxe:80/iptvgood/101011/6672
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 23" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 23
-http://fonte.lista.luxe:80/iptvgood/101011/6673
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 24" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 24
-http://fonte.lista.luxe:80/iptvgood/101011/6674
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 25" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 25
-http://fonte.lista.luxe:80/iptvgood/101011/6675
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 26" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 26
-http://fonte.lista.luxe:80/iptvgood/101011/6676
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 27" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 27
-http://fonte.lista.luxe:80/iptvgood/101011/6677
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 28" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 28
-http://fonte.lista.luxe:80/iptvgood/101011/6678
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 29" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 29
-http://fonte.lista.luxe:80/iptvgood/101011/6679
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 30" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 30
-http://fonte.lista.luxe:80/iptvgood/101011/6680
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 31" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 31
-http://fonte.lista.luxe:80/iptvgood/101011/6681
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 32" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 32
-http://fonte.lista.luxe:80/iptvgood/101011/6682
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 33" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 33
-http://fonte.lista.luxe:80/iptvgood/101011/6683
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 34" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 34
-http://fonte.lista.luxe:80/iptvgood/101011/6684
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 35" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 35
-http://fonte.lista.luxe:80/iptvgood/101011/6685
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 36" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 36
-http://fonte.lista.luxe:80/iptvgood/101011/6686
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 37" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 37
-http://fonte.lista.luxe:80/iptvgood/101011/6687
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 38" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 38
-http://fonte.lista.luxe:80/iptvgood/101011/6688
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 39" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 39
-http://fonte.lista.luxe:80/iptvgood/101011/6689
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO 40" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO 40
-http://fonte.lista.luxe:80/iptvgood/101011/6690
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 01" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 01
-http://fonte.lista.luxe:80/iptvgood/101011/6691
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 02" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 02
-http://fonte.lista.luxe:80/iptvgood/101011/6692
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 03" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 03
-http://fonte.lista.luxe:80/iptvgood/101011/6693
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 04" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 04
-http://fonte.lista.luxe:80/iptvgood/101011/6694
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 05" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 05
-http://fonte.lista.luxe:80/iptvgood/101011/6695
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 06" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 06
-http://fonte.lista.luxe:80/iptvgood/101011/6696
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 07" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 07
-http://fonte.lista.luxe:80/iptvgood/101011/6697
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 08" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 08
-http://fonte.lista.luxe:80/iptvgood/101011/6698
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 09" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 09
-http://fonte.lista.luxe:80/iptvgood/101011/6699
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 10" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 10
-http://fonte.lista.luxe:80/iptvgood/101011/6700
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 11" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 11
-http://fonte.lista.luxe:80/iptvgood/101011/6701
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 12" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 12
-http://fonte.lista.luxe:80/iptvgood/101011/6702
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 13" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 13
-http://fonte.lista.luxe:80/iptvgood/101011/6703
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 14" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 14
-http://fonte.lista.luxe:80/iptvgood/101011/6704
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 15" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 15
-http://fonte.lista.luxe:80/iptvgood/101011/6705
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 16" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 16
-http://fonte.lista.luxe:80/iptvgood/101011/6706
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 17" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 17
-http://fonte.lista.luxe:80/iptvgood/101011/6707
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 18" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 18
-http://fonte.lista.luxe:80/iptvgood/101011/6708
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 19" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 19
-http://fonte.lista.luxe:80/iptvgood/101011/6709
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO GAY 20" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO GAY 20
-http://fonte.lista.luxe:80/iptvgood/101011/6710
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 01" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 01
-http://fonte.lista.luxe:80/iptvgood/101011/6711
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 02" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 02
-http://fonte.lista.luxe:80/iptvgood/101011/6712
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 03" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 03
-http://fonte.lista.luxe:80/iptvgood/101011/6713
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 04" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 04
-http://fonte.lista.luxe:80/iptvgood/101011/6714
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 05" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 05
-http://fonte.lista.luxe:80/iptvgood/101011/6715
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 06" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 06
-http://fonte.lista.luxe:80/iptvgood/101011/6716
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 07" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 07
-http://fonte.lista.luxe:80/iptvgood/101011/6717
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 08" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 08
-http://fonte.lista.luxe:80/iptvgood/101011/6718
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 09" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 09
-http://fonte.lista.luxe:80/iptvgood/101011/6719
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 10" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 10
-http://fonte.lista.luxe:80/iptvgood/101011/6720
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 11" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 11
-http://fonte.lista.luxe:80/iptvgood/101011/6721
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 12" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 12
-http://fonte.lista.luxe:80/iptvgood/101011/6722
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 13" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 13
-http://fonte.lista.luxe:80/iptvgood/101011/6723
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 14" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 14
-http://fonte.lista.luxe:80/iptvgood/101011/6724
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 15" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 15
-http://fonte.lista.luxe:80/iptvgood/101011/6725
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 16" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 16
-http://fonte.lista.luxe:80/iptvgood/101011/6726
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 17" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 17
-http://fonte.lista.luxe:80/iptvgood/101011/6727
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 18" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 18
-http://fonte.lista.luxe:80/iptvgood/101011/6728
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 19" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 19
-http://fonte.lista.luxe:80/iptvgood/101011/6729
-#EXTINF:-1 tvg-id="" tvg-name="24H-XXX ADULTO TRANS 20" tvg-logo="" group-title="24 HORAS",24H-XXX ADULTO TRANS 20
-http://fonte.lista.luxe:80/iptvgood/101011/6730
 #EXTINF:-1 tvg-id="" tvg-name="24H-YU YU HAKUSHO" tvg-logo="" group-title="24 HORAS",24H-YU YU HAKUSHO
 http://fonte.lista.luxe:80/iptvgood/101011/6616
 #EXTINF:-1 tvg-id="" tvg-name="24H-YU-GI-OH S01" tvg-logo="" group-title="24 HORAS",24H-YU-GI-OH S01
