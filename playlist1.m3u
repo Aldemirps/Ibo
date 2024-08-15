@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="FONTE FULL" tvg-logo="",Jogos do dia
+#EXTINF:-1 tvg-id="" tvg-name="JOGOS DE HOJE" tvg-logo="https://i.postimg.cc/cHHX4vYD/canal-futebol.png" group-title="JOGOS DE HOJE",JOGOS DE HOJE
 http://xciptv.aplicativos.top/live/334470477/6641307/234252.ts
 #EXTINF:-1 tvg-id="ad9aa338e90326c3375036bd8572fa5e" tvg-name="A&E FHD H265 [P]" tvg-logo="http://srv.mypanel.life:8080/images/7bb163f52dc47674d1c023c2c66f3700.png" group-title="FONTE FULL",A&E FHD H265 [P]
 http://fonte.lista.luxe:80/iptvgood/101011/4864
