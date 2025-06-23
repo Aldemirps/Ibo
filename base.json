@@ -1,0 +1,20 @@
+[
+  {
+    "codigo": "A1B2C",
+    "nome": "João Silva",
+    "validade": "2024-12-31",
+    "plano": "Premium"
+  },
+  {
+    "codigo": "D3E4F",
+    "nome": "Maria Oliveira",
+    "validade": "2024-11-30",
+    "plano": "Básico"
+  },
+  {
+    "codigo": "G5H6I",
+    "nome": "Carlos Souza",
+    "validade": "2024-10-15",
+    "plano": "Premium"
+  }
+]
