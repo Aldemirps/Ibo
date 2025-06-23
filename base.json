@@ -4,5 +4,11 @@
     "nome": "Xiaomi ",
     "validade": "2025-06-24",
     "plano": "Básico"
+  },
+  {
+    "codigo": "QPKLE",
+    "nome": "Aldemir",
+    "validade": "2026-12-31",
+    "plano": "Premium"
   }
 ]
