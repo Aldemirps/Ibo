@@ -16,5 +16,11 @@
     "nome": "Carlos Souza",
     "validade": "2024-10-15",
     "plano": "Premium"
+  },
+  {
+    "codigo": "FGTRE",
+    "nome": "Aldemir",
+    "validade": "2025-06-25",
+    "plano": "Premium"
   }
 ]
