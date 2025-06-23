@@ -16,5 +16,11 @@
     "nome": "Aldemir",
     "validade": "2025-06-25",
     "plano": "Premium"
+  },
+  {
+    "codigo": "JHGUR",
+    "nome": "Xiaomi ",
+    "validade": "2025-06-24",
+    "plano": "Básico"
   }
 ]
