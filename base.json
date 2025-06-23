@@ -10,5 +10,11 @@
     "nome": "Aldemir",
     "validade": "2026-12-31",
     "plano": "Premium"
+  },
+  {
+    "codigo": "QWESD",
+    "nome": "Washington ",
+    "validade": "2026-01-01",
+    "plano": "Premium"
   }
 ]
