@@ -16,5 +16,11 @@
     "nome": "Washington ",
     "validade": "2026-01-01",
     "plano": "Premium"
+  },
+  {
+    "codigo": "GAFSH",
+    "nome": "Cacau",
+    "validade": "2025-04-01",
+    "plano": "Premium"
   }
 ]
