@@ -1,11 +1,5 @@
 [
   {
-    "codigo": "A1B2C",
-    "nome": "João Silva",
-    "validade": "2024-12-31",
-    "plano": "Premium"
-  },
-  {
     "codigo": "D3E4F",
     "nome": "Maria Oliveira",
     "validade": "2024-11-30",
