@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2024-06-30T12:00:00Z",
+  "lastUpdated": "2025-06-28T21:30:25.697Z",
   "description": "ilimitado",
   "codes": {
     "A1B2C": {
@@ -16,11 +16,6 @@
       "expiration": "2024-12-31",
       "createdAt": "2024-01-01",
       "description": "ilimitado"
-    },
-    "J7K8L": {
-      "expiration": "2024-07-15",
-      "createdAt": "2024-05-01",
-      "description": "teste"
     }
   },
   "defaultExpiration": "2024-12-31"
