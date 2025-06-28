@@ -1,26 +1,26 @@
 {
   "lastUpdated": "2024-06-30T12:00:00Z",
-  "description": "Lista de códigos com validade individual",
+  "description": "ilimitado",
   "codes": {
     "A1B2C": {
       "expiration": "2024-07-31",
       "createdAt": "2024-06-01",
-      "description": "Código promocional de verão"
+      "description": "ilimitado"
     },
     "D3E4F": {
       "expiration": "2024-08-15",
       "createdAt": "2024-06-15",
-      "description": "Código especial para parceiros"
+      "description": "ilimitado"
     },
     "G5H6I": {
       "expiration": "2024-12-31",
       "createdAt": "2024-01-01",
-      "description": "Código anual"
+      "description": "ilimitado"
     },
     "J7K8L": {
       "expiration": "2024-07-15",
       "createdAt": "2024-05-01",
-      "description": "Código de teste"
+      "description": "teste"
     }
   },
   "defaultExpiration": "2024-12-31"
