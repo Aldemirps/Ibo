@@ -1,26 +1,27 @@
 {
-  "12345": {
-    "senha": "12345",
-    "expira": 0
+  "lastUpdated": "2024-06-30T12:00:00Z",
+  "description": "Lista de códigos com validade individual",
+  "codes": {
+    "A1B2C": {
+      "expiration": "2024-07-31",
+      "createdAt": "2024-06-01",
+      "description": "Código promocional de verão"
+    },
+    "D3E4F": {
+      "expiration": "2024-08-15",
+      "createdAt": "2024-06-15",
+      "description": "Código especial para parceiros"
+    },
+    "G5H6I": {
+      "expiration": "2024-12-31",
+      "createdAt": "2024-01-01",
+      "description": "Código anual"
+    },
+    "J7K8L": {
+      "expiration": "2024-07-15",
+      "createdAt": "2024-05-01",
+      "description": "Código de teste"
+    }
   },
-  "12541": {
-    "senha": "12541",
-    "expira": 1752278400
-  },
-  "111111": {
-    "senha": "11111",
-    "expira": 1751241600
-  },
-  "123456789a": {
-    "senha": "12345a",
-    "expira": 0
-  },
-  "123456789b": {
-    "senha": "senha2",
-    "expira": 1755129600
-  },
-  "admin": {
-    "senha": "admin",
-    "expira": 1801440000
-  }
+  "defaultExpiration": "2024-12-31"
 }
