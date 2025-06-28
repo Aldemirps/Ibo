@@ -18,5 +18,9 @@
   "123456789b": {
     "senha": "senha2",
     "expira": 1755129600
+  },
+  "admin": {
+    "senha": "admin",
+    "expira": 1801440000
   }
 }
