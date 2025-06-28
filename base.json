@@ -10,9 +10,5 @@
   "123456789b": {
     "senha": "senha2",
     "expira": 1755129600
-  },
-  "usuario3": {
-    "senha": "outrasenha",
-    "expira": 1735776000
   }
 }
