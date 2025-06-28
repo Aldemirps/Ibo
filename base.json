@@ -1,15 +1,11 @@
 {
-  "12345678": {
-    "senha": "12345",
-    "expira": 30
-  },
   "123456789a": {
     "senha": "12345a",
     "expira": 0
   },
   "123456789b": {
     "senha": "senha2",
-    "expira": 1735689600
+    "expira": 1755129600
   },
   "usuario3": {
     "senha": "outrasenha",
