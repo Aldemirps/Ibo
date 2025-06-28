@@ -1,1 +1,13 @@
+// Formato 1
+{
+  "CODE1": { "expiration": "..." },
+  "CODE2": { "expiration": "..." }
+}
 
+// Formato 2
+{
+  "codes": {
+    "CODE1": { "expiration": "..." },
+    "CODE2": { "expiration": "..." }
+  }
+}
