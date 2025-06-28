@@ -1,1 +1,14 @@
-
+{
+  "123456789a": {
+    "senha": "12345a",
+    "expira": 0
+  },
+  "123456789b": {
+    "senha": "senha2",
+    "expira": 1735689600
+  },
+  "usuario3": {
+    "senha": "outrasenha",
+    "expira": 1735776000
+  }
+}
